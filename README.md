@@ -1,1 +1,1 @@
-# 8Puzzle
+# 8 Puzzle using multiple search algorithm
